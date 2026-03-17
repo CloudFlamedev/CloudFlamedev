@@ -16,11 +16,11 @@
 ```python
 class UtkristGupta:
     def __init__(self):
-        self.role = "Backend Developer"
+        self.role = "DevOps Engineer"
         self.focus = ["Agentic AI", "Cloud Solutions", "Scalable Systems"]
         self.currently_learning = ["LangChain", "LangGraph", "AI Integrations"]
         self.tech_stack = ["Java", "Python", "AWS", "Spring Boot"]
-        self.devops_tools = ["Jenkins", "Selenium", "Docker"]
+        self.devops_tools = ["Jenkins", "Selenium", "Docker","Kubernetes"]
         self.mindset = "Building intelligent, scalable solutions with robust CI/CD"
     
     def say_hi(self):
