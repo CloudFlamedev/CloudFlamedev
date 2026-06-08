@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Utkrist Gupta 👋</h1>
-<h3 align="center">DevOps Engineer | AI Integration Enthusiast | Cloud Solutions Architect</h3>
+<h3 align="center">DevOps Engineer | Cloud Observability | AI Integration Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+%26+LangChain+Explorer;AWS+Cloud+Enthusiast;CI%2FCD+%26+Test+Automation;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Cost+Observability;AWS+%2B+Prometheus+%2B+Grafana;AI+%26+LangChain+Explorer;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,12 +17,25 @@
 class UtkristGupta:
     def __init__(self):
         self.role = "DevOps Engineer"
-        self.focus = ["Agentic AI", "Cloud Solutions", "Scalable Systems"]
-        self.currently_learning = ["LangChain", "LangGraph", "AI Integrations"]
-        self.tech_stack = ["Java", "Python", "AWS", "Spring Boot"]
-        self.devops_tools = ["Jenkins", "Selenium", "Docker","Kubernetes"]
-        self.mindset = "Building intelligent, scalable solutions with robust CI/CD"
-    
+        self.focus = [
+            "Cloud Observability",
+            "Infrastructure Monitoring",
+            "Agentic AI",
+            "CI/CD Automation"
+        ]
+        self.currently_building = [
+            "Multi-Cloud Cost Dashboard (AWS + Azure + Grafana)",
+            "AI-powered Incident Response Bot",
+            "LangChain Agent Workflows"
+        ]
+        self.tech_stack = {
+            "languages":  ["Python", "Java", "JavaScript"],
+            "cloud":      ["AWS", "Azure"],
+            "devops":     ["Prometheus", "Grafana", "Docker", "Jenkins", "Kubernetes"],
+            "ai":         ["LangChain", "LangGraph", "OpenAI", "Gemini"]
+        }
+        self.mindset = "Build observable, intelligent, and scalable systems"
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
@@ -30,75 +43,109 @@ me = UtkristGupta()
 me.say_hi()
 ```
 
-Backend development specialist passionate about integrating AI into scalable cloud solutions. Currently exploring the intersection of traditional backend systems and cutting-edge AI technologies with a focus on automation and continuous delivery.
-
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🧠 AI & ML
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C1C1C?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+### 🛠️ Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Featured Projects
 
-### 🤖 Working On
-- 🦜 **LangChain/LangGraph Projects** - Building intelligent agent workflows
-- 🔗 **Agentic AI Systems** - Exploring autonomous AI agent architectures
-- 🐍 **Python AI Integrations** - Connecting AI capabilities with backend services
-- 🔄 **CI/CD Pipelines** - Automating deployment workflows with Jenkins
-- 🧪 **Test Automation** - Building robust test suites with Selenium
+### 🌩️ Multi-Cloud Cost Dashboard
+> Real-time AWS + Azure cost monitoring with Prometheus & Grafana
 
-### 🌱 Learning Journey
-- Advanced AWS services (Lambda, ECS, EventBridge)
-- LangGraph for complex agent orchestration
-- Retrieval-Augmented Generation (RAG) implementations
-- Vector databases and semantic search
-- Jenkins pipeline scripting and optimization
-- Selenium WebDriver for end-to-end testing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🎯 Goals
-- 🔭 Build scalable backend systems with AI capabilities
-- 💡 Contribute to LangChain/AI open source projects
-- 🌐 Deploy production-ready agentic AI applications
-- 🚀 Implement robust CI/CD pipelines for automated testing and deployment
-- 📚 Share knowledge through technical blogs and projects
+- 🔗 Custom Python Prometheus exporter fetching real AWS Cost Explorer data
+- 📊 6-panel Grafana dashboard — Stat, Time Series, Pie Chart visualizations
+- 🔵 Azure costs simulated with realistic service-level data
+- 🚨 CloudWatch billing alarms + Grafana alerting pipeline
+- 🔐 IAM read-only security, `.env` credential management
+
+**[View Project →](https://github.com/CloudFlamedev/multi-cloud-cost-dashboard)**
 
 ---
 
-## 🛠️ DevOps & Automation Workflow
+### 🏋️ IronIQ — AI Gym Tracker
+> React workout tracking app with AI coach powered by Gemini 2.0 Flash
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+
+- 💪 Workout logging with SVG-based progress charts
+- 🤖 AI coach using Google Gemini 2.0 Flash API (free tier)
+- 📈 One-rep max estimation and performance tracking
+
+---
+
+## 🏗️ DevOps Architecture
+
 ```mermaid
-graph LR
-    A[Code Commit] --> B[Jenkins Pipeline]
-    B --> C[Build & Test]
-    C --> D[Selenium Tests]
-    D --> E[Docker Image]
-    E --> F[AWS Deployment]
-    F --> G[Production]
+graph TD
+    A[Cloud APIs<br/>AWS + Azure] --> B[Python Exporter<br/>boto3 + prometheus-client]
+    B --> C[Prometheus<br/>Time Series DB]
+    C --> D[Grafana<br/>Dashboards + Alerts]
+    D --> E[Email/Telegram<br/>Notifications]
+
+    F[Code Commit] --> G[Jenkins Pipeline]
+    G --> H[Build + Test]
+    H --> I[Docker Image]
+    I --> J[AWS Deployment]
 ```
+
+---
+
+## 🌱 Current Learning Path
+
+```
+Cloud Observability     ████████████░░  85%
+Prometheus + PromQL     ████████████░░  80%
+Grafana Dashboards      ███████████░░░  75%
+AWS Services            ████████████░░  80%
+LangChain / AI Agents   ██████████░░░░  70%
+Kubernetes              ████████░░░░░░  55%
+```
+
+---
+
+## 🎯 2026 Goals
+
+- 🔭 Build an **AI-powered incident response bot** (Prometheus + LangChain)
+- 📊 Deploy a **Kubernetes cluster monitoring** dashboard
+- 🌐 Complete **AWS Solutions Architect** certification
+- 💡 Contribute to open source observability tools
+- 🚀 Build **CI/CD pipelines** with GitHub Actions + Docker
 
 ---
 
@@ -122,60 +169,6 @@ graph LR
 
 ---
 
-## 📌 Pinned Projects
-
-### 🔗 Featured Work
-- **[Portfolio-Webpage](https://github.com/CloudFlamedev/Portfolio-Webpage)** - Personal portfolio showcasing projects and skills
-- **[Album.2525](https://github.com/CloudFlamedev/Album.2525)** - Full-stack album management application
-- **[albumwebpage](https://github.com/CloudFlamedev/albumwebpage)** - Interactive web prototype
-
-*🚧 More AI-powered projects with automated CI/CD coming soon!*
-
----
-
-## 🔧 Skills Breakdown
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
-      <br>Java & Spring Boot
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/python.png" width="48" height="48" alt="Python" />
-      <br>Python & AI
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="48" height="48" alt="AWS" />
-      <br>AWS Cloud
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins CI/CD
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/selenium-test-automation.png" width="48" height="48" alt="Selenium" />
-      <br>Selenium Testing
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/git.png" width="48" height="48" alt="Git" />
-      <br>Git & GitHub
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -185,7 +178,7 @@ graph LR
   <a href="https://portfolio-webpage-bpje.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:utkristg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/x_flame8">
@@ -203,7 +196,7 @@ graph LR
 ---
 
 <p align="center">
-  <i>💬 "Building the future with AI-powered systems, automated pipelines, and robust testing. Open to collaborating on innovative projects!"</i>
+  <i>💬 "Obsessed with building observable, intelligent cloud systems — one dashboard at a time."</i>
 </p>
 
 <p align="center">
