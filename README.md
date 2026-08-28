@@ -192,15 +192,12 @@ graph TD
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudFlamedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudFlamedev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudFlamedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/CloudFlamedev">
+    <img src="https://github-readme-stats.vercel.app/api?username=CloudFlamedev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 ---
