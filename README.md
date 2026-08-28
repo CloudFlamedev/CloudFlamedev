@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Utkrist Gupta 👋</h1>
-<h3 align="center">Software Engineer | Python Backend | Cloud | AI & GenAI | DevOps</h3>
+<h3 align="center">Software Engineer | Python | Backend | Cloud | AI | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Cost+Observability;AWS+%2B+Prometheus+%2B+Grafana;AI+%26+LangChain+Explorer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Software+Engineer;Python+Backend+Developer;Cloud+%26+Distributed+Systems;AI+%26+Generative+AI;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,29 +13,31 @@
 ---
 
 ## 🚀 About Me
+
 ```python
 class UtkristGupta:
     def __init__(self):
         self.role = "Software Engineer"
+
         self.focus = [
             "Backend Development",
             "Cloud & Distributed Systems",
             "AI & Generative AI",
-            "Automation & DevOps"
+            "DevOps & Automation"
         ]
 
         self.currently_building = [
-            "AI-powered backend applications",
+            "Scalable backend applications",
             "RAG & Agentic AI systems",
             "Cloud-native applications",
-            "Scalable APIs and services"
+            "Developer automation tools"
         ]
 
         self.tech_stack = {
             "languages": ["Python", "Java", "JavaScript"],
             "backend": ["FastAPI", "REST APIs", "PostgreSQL"],
             "cloud": ["AWS", "Azure"],
-            "devops": ["Docker", "Kubernetes", "Jenkins", "Git"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
             "ai": ["LangChain", "LangGraph", "RAG", "LLMs"],
             "observability": ["Prometheus", "Grafana"]
         }
@@ -54,39 +56,62 @@ me.say_hi()
 
 ## 💻 Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### 🐍 Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 AI & Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### ☁️ Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### ⚙️ DevOps & Automation
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Observability & Monitoring
+### 📊 Observability
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🧠 AI & ML
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C1C1C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🛠️ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🔥 Featured Projects
 
+### 🤖 AI-Powered Incident Response
+
+> Intelligent incident analysis and response using Python, observability data, RAG, and LLM-powered workflows.
+
+**Focus:** Python • FastAPI • RAG • LLMs • LangChain • LangGraph • Prometheus
+
+- 🔍 Analyze application and infrastructure alerts
+- 🧠 Retrieve relevant incident and troubleshooting knowledge
+- 🤖 Generate AI-assisted incident analysis and recommendations
+- 📊 Integrate observability data into an intelligent workflow
+- ⚙️ Automate repetitive incident-response tasks
+
+---
+
 ### 🌩️ Multi-Cloud Cost Dashboard
-> Real-time AWS + Azure cost monitoring with Prometheus & Grafana
+
+> Real-time AWS + Azure cost monitoring with Prometheus and Grafana.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -94,65 +119,76 @@ me.say_hi()
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 🔗 Custom Python Prometheus exporter fetching real AWS Cost Explorer data
-- 📊 6-panel Grafana dashboard — Stat, Time Series, Pie Chart visualizations
-- 🔵 Azure costs simulated with realistic service-level data
-- 🚨 CloudWatch billing alarms + Grafana alerting pipeline
-- 🔐 IAM read-only security, `.env` credential management
+- 🔗 Custom Python Prometheus exporter fetching AWS Cost Explorer data
+- 📊 Grafana dashboards for cloud cost visualization
+- 🔵 Azure costs represented with service-level data
+- 🚨 CloudWatch billing alarms and Grafana alerting
+- 🔐 IAM read-only access and environment-based credential management
 
 **[View Project →](https://github.com/CloudFlamedev/multi-cloud-cost-dashboard)**
 
 ---
 
 ### 🏋️ IronIQ — AI Gym Tracker
-> React workout tracking app with AI coach powered by Gemini 2.0 Flash
+
+> React-based workout tracking application with an AI coach powered by Google Gemini.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 
-- 💪 Workout logging with SVG-based progress charts
-- 🤖 AI coach using Google Gemini 2.0 Flash API (free tier)
-- 📈 One-rep max estimation and performance tracking
+- 💪 Workout logging and progress tracking
+- 🤖 AI-powered workout coaching
+- 📈 One-rep max estimation and performance analysis
+- 📊 SVG-based progress visualizations
 
 ---
 
-## 🏗️ DevOps Architecture
+## 🏗️ System Architecture
 
 ```mermaid
 graph TD
-    A[Cloud APIs<br/>AWS + Azure] --> B[Python Exporter<br/>boto3 + prometheus-client]
-    B --> C[Prometheus<br/>Time Series DB]
-    C --> D[Grafana<br/>Dashboards + Alerts]
-    D --> E[Email/Telegram<br/>Notifications]
+    A[Client / User] --> B[Backend API]
+    B --> C[Application Services]
+    C --> D[(PostgreSQL)]
 
-    F[Code Commit] --> G[Jenkins Pipeline]
-    G --> H[Build + Test]
-    H --> I[Docker Image]
-    I --> J[AWS Deployment]
+    C --> E[AI / RAG Layer]
+    E --> F[LLM]
+
+    C --> G[Cloud Services]
+    G --> H[AWS / Azure]
+
+    H --> I[Prometheus]
+    I --> J[Grafana]
+
+    K[Code Commit] --> L[CI/CD Pipeline]
+    L --> M[Build + Test]
+    M --> N[Docker Image]
+    N --> O[Cloud Deployment]
 ```
 
 ---
 
-## 🌱 Current Learning Path
+## 🌱 Currently Learning
 
-```
-Cloud Observability     ████████████░░  85%
-Prometheus + PromQL     ████████████░░  80%
-Grafana Dashboards      ███████████░░░  75%
-AWS Services            ████████████░░  80%
-LangChain / AI Agents   ██████████░░░░  70%
-Kubernetes              ████████░░░░░░  55%
-```
+- 🏗️ System Design & Distributed Systems
+- 🐍 Advanced Python Backend Development
+- ⚡ FastAPI & Backend Architecture
+- 🧠 RAG & Agentic AI
+- ☁️ AWS & Cloud Architecture
+- ☸️ Kubernetes & Cloud-Native Systems
+- ⚙️ CI/CD & Infrastructure Automation
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🔭 Build an **AI-powered incident response bot** (Prometheus + LangChain)
-- 📊 Deploy a **Kubernetes cluster monitoring** dashboard
-- 🌐 Complete **AWS Solutions Architect** certification
-- 💡 Contribute to open source observability tools
-- 🚀 Build **CI/CD pipelines** with GitHub Actions + Docker
+- 🚀 Build production-grade Python backend applications
+- 🧠 Build practical RAG and Agentic AI applications
+- ☁️ Strengthen AWS and cloud architecture skills
+- 🏗️ Improve scalable system design knowledge
+- ⚙️ Build reliable CI/CD and cloud-native systems
+- 🌱 Contribute to open-source projects
+- 📚 Continue growing across backend, cloud, and AI engineering
 
 ---
 
@@ -165,13 +201,6 @@ Kubernetes              ████████░░░░░░  55%
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudFlamedev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CloudFlamedev&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
@@ -189,21 +218,14 @@ Kubernetes              ████████░░░░░░  55%
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/x_flame8">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 ---
 
-## 💡 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <i>💬 "Obsessed with building observable, intelligent cloud systems — one dashboard at a time."</i>
+  <i>💡 Building scalable software, cloud-native systems, and intelligent applications.</i>
 </p>
 
 <p align="center">
