@@ -16,28 +16,35 @@
 ```python
 class UtkristGupta:
     def __init__(self):
-        self.role = "DevOps Engineer"
+        self.role = "Software Engineer"
         self.focus = [
-            "Cloud Observability",
-            "Infrastructure Monitoring",
-            "Agentic AI",
-            "CI/CD Automation"
+            "Backend Development",
+            "Cloud & Distributed Systems",
+            "AI & Generative AI",
+            "Automation & DevOps"
         ]
+
         self.currently_building = [
-            "Multi-Cloud Cost Dashboard (AWS + Azure + Grafana)",
-            "AI-powered Incident Response Bot",
-            "LangChain Agent Workflows"
+            "AI-powered backend applications",
+            "RAG & Agentic AI systems",
+            "Cloud-native applications",
+            "Scalable APIs and services"
         ]
+
         self.tech_stack = {
-            "languages":  ["Python", "Java", "JavaScript"],
-            "cloud":      ["AWS", "Azure"],
-            "devops":     ["Prometheus", "Grafana", "Docker", "Jenkins", "Kubernetes"],
-            "ai":         ["LangChain", "LangGraph", "OpenAI", "Gemini"]
+            "languages": ["Python", "Java", "JavaScript"],
+            "backend": ["FastAPI", "REST APIs", "PostgreSQL"],
+            "cloud": ["AWS", "Azure"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "Git"],
+            "ai": ["LangChain", "LangGraph", "RAG", "LLMs"],
+            "observability": ["Prometheus", "Grafana"]
         }
-        self.mindset = "Build observable, intelligent, and scalable systems"
+
+        self.mindset = "Build scalable, reliable, and intelligent systems"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
+
 
 me = UtkristGupta()
 me.say_hi()
