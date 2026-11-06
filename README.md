@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Utkrist Gupta 👋</h1>
-<h3 align="center">Software Engineer | Python | Backend | Cloud | AI | DevOps</h3>
+<h3 align="center">AI Engineer | Python | FASTAPI | RAG | Langchain | Langraph | Crew AI | Backend | AWS | Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Software+Engineer;Python+Backend+Developer;Cloud+%26+Distributed+Systems;AI+%26+Generative+AI;Building+Scalable+Systems" alt="Typing SVG" />
